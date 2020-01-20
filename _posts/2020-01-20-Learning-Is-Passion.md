@@ -1,5 +1,5 @@
 ---
-title: ":Learning-Is-Passion"
+title: "Learning-Is-Passion"
 date: 2020-01-20
 ---
 
