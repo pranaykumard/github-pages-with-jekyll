@@ -1,3 +1,8 @@
+---
+title: ":Learning-Is-Passion"
+date: 2020-01-20
+---
+
 The US Government has announced that federal workers should not be looking at the government secrets. Fine; I suppose your employer can tell you what you can’t do. But several experts are extending the logic, saying that succumbing to the temptation to look at the site may permanently disqualify you from ever getting a security clearance, because you could be asked whether you ever looked at classified information you were not authorized to see.
 
 Would they really do that? This article in the Washington Post says they would.
